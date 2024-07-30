@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63433021955",
+    "project_id": "smart-toll-531ae",
+    "storage_bucket": "smart-toll-531ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63433021955:android:6d2569c80eb685ba8f0c36",
+        "android_client_info": {
+          "package_name": "com.alorb.smarttoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63433021955-q4jej3df67sjcmtjoou4r55agt55vv4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alorb.smarttoll",
+            "certificate_hash": "9c4efcebf28ed3463e4758ec0afe64e1f78e511b"
+          }
+        },
+        {
+          "client_id": "63433021955-m9jjve72fscclu5frvki495vd9bqgc5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn4c5xqDEHWMV0896uAZ2YxcyVAAwSDC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63433021955-m9jjve72fscclu5frvki495vd9bqgc5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
