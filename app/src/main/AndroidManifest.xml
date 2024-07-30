@@ -55,7 +55,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAm0s0wIhW3YeAdF71NuP1_mDMU5OlZymg" />
+            android:value="" />
         <receiver android:name=".presentation.geofencing.broadcast_receiver.GeofenceBroadcastReceiver"/>
     </application>
 </manifest>
